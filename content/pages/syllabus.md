@@ -15,7 +15,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
 ## Description
 
-We will try to cover the following topics:
+We cover the following topics:
 
 1) Semi classical approach
 
@@ -51,4 +51,4 @@ There is no assigned textbook for this course. Instead, detailed lecture notes a
 
 ## Requirements
 
-There will be weekly homework assignments, due on Thursday at lecture. There will also be a term paper.
+There are weekly problem set assignments, due on Thursday at lecture. There is also a term paper.
