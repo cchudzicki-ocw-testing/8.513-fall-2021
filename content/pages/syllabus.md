@@ -25,7 +25,7 @@ We cover the following topics:
 6. Quantum 1D Ising model and symmetry breaking
 7. Critical point in 1D Ising model and its dual free fermion model
 8. Topological superconductors
-9. Half-qubits – Majorana zero model
+9. Half-qubits – Majorana zero modes
 10. K-theory for symmetry protected topological phases of free fermions
 11. \\(Z_2\\) topological order for 2D interacting bosons
 12. Emergent fermions and string operators
