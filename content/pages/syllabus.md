@@ -51,4 +51,4 @@ There is no assigned textbook for this course. Instead, detailed lecture notes a
 
 ## Requirements
 
-There will be weekly homework, due on Thursday at lecture. There will also be a term paper.
+There will be weekly homework assignments, due on Thursday at lecture. There will also be a term paper.
