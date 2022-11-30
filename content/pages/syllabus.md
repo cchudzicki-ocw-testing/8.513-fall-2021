@@ -37,7 +37,7 @@ We cover the following topics:
 
 10) K-theory for symmetry protected topological phases of free fermions.
 
-11) **Z2** topological order for 2D interacting bosons.
+11) \\(Z\_2\\) topological order for 2D interacting bosons.
 
 12) Emergent fermions and string operators.
 
