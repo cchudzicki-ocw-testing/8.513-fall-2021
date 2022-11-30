@@ -4,7 +4,13 @@
   "level": [
     "Graduate"
   ],
-  "topics": [],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Condensed Matter Physics"
+    ]
+  ],
   "legacy_uid": "",
   "instructors": {
     "content": [
