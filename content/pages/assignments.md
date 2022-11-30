@@ -5,11 +5,15 @@ draft: false
 title: Assignments
 uid: 32f0b896-9d2a-4a45-b0ae-f3cdf03a1166
 ---
-The term paper is about four pages. It may be a short review article or a short article about  
-a problem you worked on. The goal is to tell a story, such as an experimental phenomenon, a  
-theoretical frame work, etc.
+The requirements for this class are weekly problem set assignments and a term paper.
 
-Some possible term paper topics:
+### Problem Sets
+
+ 
+
+### Term Paper
+
+The term paper should be about four pages long. It may be a short review article or a short article about a problem you worked on. The goal is to tell a story, such as an experimental phenomenon, a theoretical frame work, etc. Some possible term paper topics:
 
 1. Magnetic orders and their spin waves
 2. Boltzmann transport equation for bands with Berry curvature
