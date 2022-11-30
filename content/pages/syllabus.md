@@ -11,7 +11,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
 ## Prerequisites
 
-[*18.06 Linear Algebra*](/courses/18-06sc-linear-algebra-fall-2011), [*18.700 Linear Algebra*](/courses/18-700-linear-algebra-fall-2013), or [*18.701 Algebra I*](/courses/18-701-algebra-i-fall-2010); and [*18.100A Introduction to Analysis*](/courses/18-100a-introduction-to-analysis-fall-2012), [*18.100B Analysis I*](/courses/18-100b-analysis-i-fall-2010), *18.100P Real Analysis*, or *18.100Q Real Analysis*; or permission of the instructor.
+[*8.033 Relativity*](https://ocw.mit.edu/courses/8-033-relativity-fall-2006/), [*8.05 Quantum Physics II*](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/), [*8.08 Statistical Physics II*](https://ocw.mit.edu/courses/8-08-statistical-physics-ii-spring-2005/), and [*8.231 Physics of Solids*](https://ocw.mit.edu/courses/8-231-physics-of-solids-i-fall-2006/)
 
 ## Description
 
