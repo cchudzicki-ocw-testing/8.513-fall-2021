@@ -1,0 +1,36 @@
+{
+  "term": "Fall",
+  "year": "2021",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "221fded3-b784-a586-b139-1d87009d8990"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "modern-quantum-many-body-physics-for-condensed-matter-systems"
+  },
+  "course_title": "Modern Quantum Many-body Physics for Condensed Matter Systems",
+  "course_description": "The course covers the quantum effect in solids, such as the phenomena related to topological phases of matter.",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.513",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "modern-quantum-many-body-physics-for-condensed-matter-systems"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "4898e90f-bb6d-48c8-93e9-05fb5c023080",
+  "site_short_id": "8.513-fall-2021"
+}
