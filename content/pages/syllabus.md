@@ -17,33 +17,20 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
 We cover the following topics:
 
-1) Semi classical approach
-
-2) Emerging dynamics of quasiparticle (beyond Newton Law).
-
-3) Geometric phase, Chern number, and fiber bundle.
-
-4) Quantum Hall insulator – a topological phase of matter.
-
-5) Interaction bosonic superfluid.
-
-6) Quantum 1D Ising model and symmetry breaking.
-
-7) Critical point in 1D Ising model and its dual free fermion model.
-
-8) Topological superconductors
-
-9) Half-qubits – Majorana zero modes
-
-10) K-theory for symmetry protected topological phases of free fermions.
-
-11) \\(Z\_2\\) topological order for 2D interacting bosons.
-
-12) Emergent fermions and string operators.
-
-13) Topological order and long range entanglement.
-
-14) Higher category theory for topological excitations.
+1. Semi classical approach
+2. Emerging dynamics of quasiparticle (beyond Newton Law)
+3. Geometric phase, Chern number, and fiber bundle
+4.  Quantum Hall insulator – a topological phase of matter
+5. Interaction bosonic superfluid
+6. Quantum 1D Ising model and symmetry breaking
+7. Critical point in 1D Ising model and its dual free fermion model
+8. Topological superconductors
+9. Half-qubits – Majorana zero model
+10. K-theory for symmetry protected topological phases of free fermions
+11. \\(Z_2\\) topological order for 2D interacting bosons
+12. Emergent fermions and string operators
+13. Topological order and long range entanglement
+14. Higher category theory for topological excitations.
 
 ## Textbook and Notes
 
