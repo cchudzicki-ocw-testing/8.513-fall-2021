@@ -30,7 +30,7 @@ This graduate-level course covers the quantum effect in solids, such as the phen
 11. \\(Z_2\\) topological order for 2D interacting bosons
 12. Emergent fermions and string operators
 13. Topological order and long range entanglement
-14. Higher category theory for topological excitations.
+14. Higher category theory for topological excitations
 
 ## Textbook and Notes
 
