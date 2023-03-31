@@ -45,5 +45,5 @@ The term paper should be about four pages long. It may be a short review article
 8. Conformal field theories
 9. Haldane phase (or AKLT state) of spin-1 chain
 10. Topological superconductors and Majorana zero modes.
-11. Quantum critical point and critical exponents.
-12. Or any other topic in condensed matter physics.
+11. Quantum critical point and critical exponents
+12. Or any other topic in condensed matter physics
