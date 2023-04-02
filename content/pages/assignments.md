@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: Eleven Problem sets and Term Paper assignment
+description: Eleven problem sets and term paper assignment
 draft: false
 title: Assignments
 uid: 32f0b896-9d2a-4a45-b0ae-f3cdf03a1166
