@@ -9,6 +9,6 @@ Lectures 1–6: Semi-classical Approach (PDF)
 
 Lectures 7–15: Interacting Bosons (PDF)
 
-Lectures 16–19: Free Fermion SPT Order (PDF)
+Lectures 16–19: SPT Order in Free Fermion Systems (PDF)
 
 Lectures 20–24: Topological Order (PDF)
