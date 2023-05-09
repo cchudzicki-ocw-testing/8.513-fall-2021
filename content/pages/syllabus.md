@@ -17,10 +17,10 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
 This graduate-level course covers the quantum effect in solids, such as the phenomena related to topological phases of matter. We cover the following topics:
 
-1. Semi classical approach
-2. Emerging dynamics of quasiparticle (beyond Newton Law)
+1. Semiclassical approach
+2. Emerging dynamics of quasiparticles (beyond Newton's Law)
 3. Geometric phase, Chern number, and fiber bundle
-4.  Quantum Hall insulator—a topological phase of matter
+4. Quantum Hall insulator—a topological phase of matter
 5. Interaction bosonic superfluid
 6. Quantum 1D Ising model and symmetry breaking
 7. Critical point in 1D Ising model and its dual free fermion model
